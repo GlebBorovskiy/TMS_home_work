@@ -1,5 +1,0 @@
-a = int (input("введите число a"))
-b = int (input("введте число b"))
-print(a + b)
-print (a - b)
-print (a * b)
